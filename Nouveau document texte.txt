@@ -1,0 +1,40 @@
+#logo:hover{
+    background-color:#EB43A3;
+    position:fixed ;
+    width : 15%;
+}
+#Le-Principe{
+    text-align: center;
+    position:fixed;
+    width:10%;
+
+}
+#Le-Principe:hover{
+    display:block;
+    background-color:#EB43A3;
+    position:fixed ;
+    width : 10%;
+}
+#Nos-licorne{
+    text-align: center;
+    position :fixed;
+    width:10%;
+
+}
+#nos-licorne:hover{
+    display:block;
+    background-color:#EB43A3;
+    position:fixed ;
+    width : 10%;
+}
+#Nous-trouver{
+    text-align: center;
+    width:10%;
+
+}
+#Nous-trouver:hover{
+    display:block;
+    background-color:#EB43A3;
+    position:fixed ;
+    width : 10%;
+}

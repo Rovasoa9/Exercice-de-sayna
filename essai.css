@@ -1,0 +1,154 @@
+a{
+    text-decoration:none;
+    color: black;
+}
+h1{
+    font-family:'Courgette', cursive;
+    font-weight:bold;
+    text-align: center;
+    font-size:20px;
+    color:#C55394;
+} 
+h2{ 
+    margin:20px;
+    padding-top:40px;
+    font-family:'Courgette', cursive;
+    color:#C55394;
+} 
+h4{
+    font-family:'Courgette', cursive;
+    font-weight:bold;
+    color:#C55394;
+} 
+/**************************************Header********************************/
+
+ul{
+    list-style-type:none;
+    margin:0px;
+    padding:0px;
+    overflow: hidden;
+    background-color:#C55394;
+}
+li{
+    float:right;
+    color:white;
+    text-align:center;
+}
+#logo{
+    float:left;
+    text-align:center;
+    padding:30px 20px;
+    font-family:'Courgette', cursive;
+
+}
+li a{
+    display:block;
+    color:white;
+    text-align:center;
+    padding:30px 20px ;
+}
+li a:hover:not(#logo) {
+    background-color:#EB43A3;
+}
+/**********************tout la section************************/
+body{
+    font-family:Arial, sans-serif;
+    background-image:url(img/background.png);
+    background-repeat:repeat;
+    padding:0px;
+    margin:0px;
+}
+#Bannière {
+    display:block;
+    border:none;
+    width:400px;
+    margin-left: 350px;
+    margin-right:0px;
+    padding:100px 100px 80px 100px;
+    background-image:url(img/rainbow.png);
+    background-position:center;
+}
+#bloc1{
+    display:block;
+    border:none;
+    margin-left:100px;
+    margin-right:100px;
+    background-color:white;
+    border-radius: 15px;
+    box-shadow: -1px 4px 28px -1px black;
+}
+/*************************introduction**********************/
+.introduction{
+    margin:10px;
+}
+#para{
+    margin-top:-10px;
+}
+.photo{
+    display:block;
+    
+}
+.figure{
+
+    display: flex;
+    flex-wrap: nowrap;
+}
+figure{
+    margin:10px;
+    padding:20px;
+    width:250px;
+    height:250px;
+  
+}
+figcaption{
+    display:block;
+    border:1px solid;
+    color:white;
+    background-color:black;
+    opacity:0,1;
+    text-align:center;
+    font-size:12px;
+    margin:-20px;
+    padding:20px;
+}
+/*******************coordoné****************************/
+#gps{
+    display:bock;
+    border:none;
+    padding:15px;
+}
+#article{
+    
+    display:bock;
+    border:none;
+    padding:15px;
+}
+#flexbox{
+    display:flex;
+}
+.bouton{
+    border-radius:5px;
+    background-color:#EB43A3;
+    margin:10px;
+    padding:2px;
+    width:70px;
+}
+footer{
+    margin-top:40px;
+    padding:20px;
+    overflow: hidden;
+    background-color:#C55394;
+}
+span{
+    font-size:12px;
+    color:white;
+    margin-left:1100px;
+    margin-bottom:15px;
+}
+
+
+
+
+
+
+ 
